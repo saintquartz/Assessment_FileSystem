@@ -11,6 +11,7 @@ Coded using Java version 21.0.4
    ```
 2. **Navigate into the folder and compile**
    ```bash
+   cd Assessment_FileSystem/
    javac Main.java
    ```
 
